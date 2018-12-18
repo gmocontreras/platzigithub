@@ -1,2 +1,2 @@
 # platzigithub
-curso de platzigithub
+curso de platzigithub XXXXXXXX
